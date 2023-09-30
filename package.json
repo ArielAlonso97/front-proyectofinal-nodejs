@@ -9,8 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1",
+    "next": "latest",
+    "popper.js": "^1.16.1",
     "react": "latest",
+    "react-bootstrap": "^1.6.3",
     "react-dom": "latest",
-    "next": "latest"
+    "sass": "^1.68.0",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.19"
   }
 }
